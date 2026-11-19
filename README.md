@@ -28,58 +28,68 @@ I specialize in:
 - Developing reliable, maintainable, and user-focused software.
 
 ---
-
 ## 🛠️ Technologies & Skills
 
-**Languages**
+\<table> \<tr> \<td width="33%" valign="top">
+
+### Languages
+
 - Python
 - JavaScript
 - TypeScript
 - HTML5
 - CSS3
 
-**Backend Development**
+### Frontend
+
+- React
+- Next.js
+- Tailwind CSS
+
+\</td>
+\<td width="33%" valign="top">
+
+### Backend
+
 - Django
 - Django REST Framework
 - REST APIs
 - WebSockets
 - Django Channels
 
-**Frontend Development**
-- React
-- Next.js
-- Tailwind CSS
+### Databases
 
-**Databases**
 - PostgreSQL
 - MySQL
 - Redis
 - SQLite
 
-**AI & Machine Learning Applications**
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
+\</td>
+\<td width="33%" valign="top">
+
+### AI & LLMs
+
+- LLM Applications
+- RAG
 - AI Chatbots
 - AI Agents
 - Embeddings
 - Semantic Search
-- AI API Integrations
 
-**Automation & Data Extraction**
+### Tools & Automation
+
 - Python Automation
-- Web Scraping
 - Selenium
-- Data Collection & Processing
-- Workflow Automation
-
-**Tools & Integrations**
+- Web Scraping
 - Git & GitHub
 - Docker
 - Stripe
 - cPanel
-- Third-Party API Integrations
 
----
+\</td>
+\</tr>
+\</table>
+
 
 ## 💻 Featured Projects
 
