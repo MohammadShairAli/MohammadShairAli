@@ -6,7 +6,8 @@ I build AI-powered full-stack products with LLMs, chatbots, RAG features, and au
 
 🌐 **Portfolio:** [mohammadshairali.vercel.app](https://mohammadshairali.vercel.app/)
 
-💼 **LinkedIn:** Connect with me on LinkedIn  
+💻 **GitHub:** [github.com/MohammadShairAli](https://github.com/MohammadShairAli)
+
 📍 **Location:** Lahore, Pakistan
 
 ---
@@ -28,85 +29,29 @@ I specialize in:
 - Developing reliable, maintainable, and user-focused software.
 
 ---
+
 ## 🛠️ Technologies & Skills
 
-\<table> \<tr> \<td width="33%" valign="top">
+\<table> \<tr> \<td width="33%" valign="top"> \<h3>Languages\</h3> \<ul> \<li>Python\</li> \<li>JavaScript\</li> \<li>TypeScript\</li> \<li>HTML5\</li> \<li>CSS3\</li> \</ul> \<h3>Frontend\</h3> \<ul> \<li>React\</li> \<li>Next.js\</li> \<li>Tailwind CSS\</li> \</ul> \</td> \<td width="33%" valign="top"> \<h3>Backend\</h3> \<ul> \<li>Django\</li> \<li>Django REST Framework\</li> \<li>REST APIs\</li> \<li>WebSockets\</li> \<li>Django Channels\</li> \</ul> \<h3>Databases\</h3> \<ul> \<li>PostgreSQL\</li> \<li>MySQL\</li> \<li>Redis\</li> \<li>SQLite\</li> \</ul> \</td> \<td width="33%" valign="top"> \<h3>AI & LLMs\</h3> \<ul> \<li>LLM Applications\</li> \<li>RAG\</li> \<li>AI Chatbots\</li> \<li>AI Agents\</li> \<li>Embeddings\</li> \<li>Semantic Search\</li> \</ul> \<h3>Tools & Automation\</h3> \<ul> \<li>Python Automation\</li> \<li>Selenium\</li> \<li>Web Scraping\</li> \<li>Git & GitHub\</li> \<li>Docker\</li> \<li>Stripe\</li> \<li>cPanel\</li> \</ul> \</td> \</tr> \</table>
 
-### Languages
-
-- Python
-- JavaScript
-- TypeScript
-- HTML5
-- CSS3
-
-### Frontend
-
-- React
-- Next.js
-- Tailwind CSS
-
-\</td>
-\<td width="33%" valign="top">
-
-### Backend
-
-- Django
-- Django REST Framework
-- REST APIs
-- WebSockets
-- Django Channels
-
-### Databases
-
-- PostgreSQL
-- MySQL
-- Redis
-- SQLite
-
-\</td>
-\<td width="33%" valign="top">
-
-### AI & LLMs
-
-- LLM Applications
-- RAG
-- AI Chatbots
-- AI Agents
-- Embeddings
-- Semantic Search
-
-### Tools & Automation
-
-- Python Automation
-- Selenium
-- Web Scraping
-- Git & GitHub
-- Docker
-- Stripe
-- cPanel
-
-\</td>
-\</tr>
-\</table>
-
+---
 
 ## 💻 Featured Projects
 
 Explore some of the projects I've worked on:
 
-| Project | Description |
-|---|---|
-| **FStreet Social** | Real-time Restaurant Table Booking System |
-| **Georgia Foreclosure Hub** | Property Discovery & Investment Platform |
-| **Travel Multiverse** | AI-Powered Travel Discovery & Booking Platform |
-| **DineIn Platform** | Enterprise Restaurant Management SaaS |
-| **Amazon Data Extractor** | E-commerce Data Aggregation System |
-| **BOL Analytics Platform** | Product Data Collection & Organization System |
-| **Google Sheets Automation** | Data Processing & Integration Tool |
-| **Unified Integration Hub** | Multi-Platform API Integration & Management |
-| **InnTwin** | 3D Product Visualization, AR & Installation Planning |
-| **Kitchen Giant** | Interactive 3D Kitchen Planner for Shopify |
+| **Project**                  | **Description**                                      |
+| ---------------------------- | ---------------------------------------------------- |
+| **FStreet Social**           | Real-time Restaurant Table Booking System            |
+| **Georgia Foreclosure Hub**  | Property Discovery & Investment Platform             |
+| **Travel Multiverse**        | AI-Powered Travel Discovery & Booking Platform       |
+| **DineIn Platform**          | Enterprise Restaurant Management SaaS                |
+| **Amazon Data Extractor**    | E-commerce Data Aggregation System                   |
+| **BOL Analytics Platform**   | Product Data Collection & Organization System        |
+| **Google Sheets Automation** | Data Processing & Integration Tool                   |
+| **Unified Integration Hub**  | Multi-Platform API Integration & Management          |
+| **InnTwin**                  | 3D Product Visualization, AR & Installation Planning |
+| **Kitchen Giant**            | Interactive 3D Kitchen Planner for Shopify           |
 
 🌐 **Explore all projects:** [My Portfolio](https://mohammadshairali.vercel.app/)
 
@@ -114,17 +59,17 @@ Explore some of the projects I've worked on:
 
 ## 💼 Professional Experience
 
-**AI Full Stack Developer — BlenSpark**  
+**AI Full Stack Developer — BlenSpark**
 *May 2025 – Present*
 
 Building AI-powered full-stack features using Django REST APIs, Next.js, React, chatbots, RAG workflows, and automation tools. Contributing to backend systems, integrations, and user-facing application features.
 
-**Associate Software Developer — BlenSpark**  
+**Associate Software Developer — BlenSpark**
 *July 2024 – May 2025*
 
 Focused on Django backend development, web scraping, data acquisition, and React frontend development. Designed scraping pipelines and integrated backend and frontend features.
 
-**Python Developer — BlenSpark**  
+**Python Developer — BlenSpark**
 *June 2024 – July 2024*
 
 Completed a hands-on Python internship covering core Python, Django, and web scraping, gaining practical experience in backend development and data acquisition.
@@ -133,8 +78,8 @@ Completed a hands-on Python internship covering core Python, Django, and web scr
 
 ## 🎓 Education
 
-**Bachelor of Science in Computer Science**  
-University of Management and Technology (UMT)  
+**Bachelor of Science in Computer Science**
+University of Management and Technology (UMT)
 November 2021 – June 2025
 
 ---
@@ -160,11 +105,11 @@ I'm open to opportunities and collaborations involving:
 - Automation & Web Scraping
 - API Development & Integration
 
-🌐 **Portfolio:** https://mohammadshairali.vercel.app/
+🌐 **Portfolio:** [mohammadshairali.vercel.app](https://mohammadshairali.vercel.app/)
 
-💻 **GitHub:** https://github.com/MohammadShairAli
+💻 **GitHub:** [MohammadShairAli](https://github.com/MohammadShairAli)
 
-📧 **Email:** shair2558@gmail.com
+📧 **Email:** [shair2558@gmail.com](mailto\:shair2558@gmail.com)
 
 📍 **Lahore, Pakistan**
 
