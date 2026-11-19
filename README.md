@@ -32,8 +32,10 @@ I specialize in:
 
 ## 🛠️ Technologies & Skills
 
-\<table> \<tr> \<td width="33%" valign="top"> \<h3>Languages\</h3> \<ul> \<li>Python\</li> \<li>JavaScript\</li> \<li>TypeScript\</li> \<li>HTML5\</li> \<li>CSS3\</li> \</ul> \<h3>Frontend\</h3> \<ul> \<li>React\</li> \<li>Next.js\</li> \<li>Tailwind CSS\</li> \</ul> \</td> \<td width="33%" valign="top"> \<h3>Backend\</h3> \<ul> \<li>Django\</li> \<li>Django REST Framework\</li> \<li>REST APIs\</li> \<li>WebSockets\</li> \<li>Django Channels\</li> \</ul> \<h3>Databases\</h3> \<ul> \<li>PostgreSQL\</li> \<li>MySQL\</li> \<li>Redis\</li> \<li>SQLite\</li> \</ul> \</td> \<td width="33%" valign="top"> \<h3>AI & LLMs\</h3> \<ul> \<li>LLM Applications\</li> \<li>RAG\</li> \<li>AI Chatbots\</li> \<li>AI Agents\</li> \<li>Embeddings\</li> \<li>Semantic Search\</li> \</ul> \<h3>Tools & Automation\</h3> \<ul> \<li>Python Automation\</li> \<li>Selenium\</li> \<li>Web Scraping\</li> \<li>Git & GitHub\</li> \<li>Docker\</li> \<li>Stripe\</li> \<li>cPanel\</li> \</ul> \</td> \</tr> \</table>
-
+| **Languages & Frontend** | **Backend & Databases** | **AI & Automation** |
+|:---|:---|:---|
+| **Languages**<br>Python<br>JavaScript<br>TypeScript<br>HTML5<br>CSS3 | **Backend**<br>Django<br>Django REST Framework<br>REST APIs<br>WebSockets<br>Django Channels | **AI & LLMs**<br>LLM Applications<br>RAG<br>AI Chatbots<br>AI Agents<br>Embeddings<br>Semantic Search |
+| **Frontend**<br>React<br>Next.js<br>Tailwind CSS | **Databases**<br>PostgreSQL<br>MySQL<br>Redis<br>SQLite | **Tools & Automation**<br>Python Automation<br>Selenium<br>Web Scraping<br>Git & GitHub<br>Docker<br>Stripe<br>cPanel |
 ---
 
 ## 💻 Featured Projects
