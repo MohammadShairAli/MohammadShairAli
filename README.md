@@ -1,120 +1,119 @@
-# Hi, I'm Mohammad Shair Ali 👋
+# Mohammad Shair Ali
 
-### AI Full-Stack Developer | Django & Python | React & Next.js | Chatbots | LLMs | RAG
+### AI Full Stack Developer | Python | Django | React | Next.js | LLMs | RAG
 
-I build AI-powered full-stack products with LLMs, chatbots, RAG features, and automation workflows. My work combines Django REST APIs, Next.js, React, and production-ready integrations to deliver scalable digital systems.
+I'm a Full Stack Developer working mainly with Python, Django, React, and Next.js. I enjoy building web applications, backend systems, and AI based solutions.
 
-🌐 **Portfolio:** [mohammadshairali.vercel.app](https://mohammadshairali.vercel.app/)
+Over the past 2+ years, I've worked on different client projects at BlenSpark, including booking platforms, data extraction systems, AI applications, and interactive 3D experiences.
 
-💻 **GitHub:** [github.com/MohammadShairAli](https://github.com/MohammadShairAli)
+**Portfolio:** [mohammadshairali.vercel.app](https://mohammadshairali.vercel.app/)
 
-📍 **Location:** Lahore, Pakistan
+**GitHub:** [github.com/MohammadShairAli](https://github.com/MohammadShairAli)
 
----
-
-## 🚀 About Me
-
-I am Mohammad Shair Ali, an AI Full-Stack Developer based in Lahore, Pakistan, with 2+ years of experience building web applications, APIs, AI-powered solutions, automation systems, and data-driven applications.
-
-My work spans Python, Django, Django REST Framework, React, Next.js, PostgreSQL, MySQL, Redis, WebSockets, Stripe, and third-party API integrations.
-
-I specialize in:
-
-- Building scalable backend systems and REST APIs.
-- Developing modern full-stack web applications.
-- Creating LLM-powered applications and chatbots.
-- Implementing RAG pipelines, embeddings, and semantic search.
-- Building Python automation and web scraping systems.
-- Integrating third-party APIs and production services.
-- Developing reliable, maintainable, and user-focused software.
+**Location:** Lahore, Pakistan
 
 ---
 
-## 🛠️ Technologies & Skills
+## About Me
 
-| **Languages & Frontend** | **Backend & Databases** | **AI & Automation** |
+I am currently working as an AI Full Stack Developer at BlenSpark, where I contribute to web applications, backend development, AI features, and third party integrations.
+
+Most of my backend work involves Python and Django REST Framework. On the frontend, I work with React and Next.js to build responsive web applications.
+
+I've also worked on chatbots, LLM integrations, RAG systems, web scraping, and Python automation. Alongside development, I have experience understanding project requirements, communicating with clients, and working with a team to deliver solutions.
+
+I enjoy learning new technologies and solving practical problems through software development.
+
+---
+
+## Technologies & Skills
+
+| Languages & Frontend | Backend & Databases | AI & Other Tools |
 |:---|:---|:---|
-| **Languages**<br>Python<br>JavaScript<br>TypeScript<br>HTML5<br>CSS3 | **Backend**<br>Django<br>Django REST Framework<br>REST APIs<br>WebSockets<br>Django Channels | **AI & LLMs**<br>LLM Applications<br>RAG<br>AI Chatbots<br>AI Agents<br>Embeddings<br>Semantic Search |
-| **Frontend**<br>React<br>Next.js<br>Tailwind CSS | **Databases**<br>PostgreSQL<br>MySQL<br>Redis<br>SQLite | **Tools & Automation**<br>Python Automation<br>Selenium<br>Web Scraping<br>Git & GitHub<br>Docker<br>Stripe<br>cPanel |
----
-
-## 💻 Featured Projects
-
-Explore some of the projects I've worked on:
-
-| **Project**                  | **Description**                                      |
-| ---------------------------- | ---------------------------------------------------- |
-| **FStreet Social**           | Real-time Restaurant Table Booking System            |
-| **Georgia Foreclosure Hub**  | Property Discovery & Investment Platform             |
-| **Travel Multiverse**        | AI-Powered Travel Discovery & Booking Platform       |
-| **DineIn Platform**          | Enterprise Restaurant Management SaaS                |
-| **Amazon Data Extractor**    | E-commerce Data Aggregation System                   |
-| **BOL Analytics Platform**   | Product Data Collection & Organization System        |
-| **Google Sheets Automation** | Data Processing & Integration Tool                   |
-| **Unified Integration Hub**  | Multi-Platform API Integration & Management          |
-| **InnTwin**                  | 3D Product Visualization, AR & Installation Planning |
-| **Kitchen Giant**            | Interactive 3D Kitchen Planner for Shopify           |
-
-🌐 **Explore all projects:** [My Portfolio](https://mohammadshairali.vercel.app/)
+| **Languages** | **Backend** | **AI & LLMs** |
+| Python | Django | LLM Applications |
+| JavaScript | Django REST Framework | RAG |
+| TypeScript | REST APIs | AI Chatbots |
+| HTML5 | WebSockets | AI Agents |
+| CSS3 | Django Channels | Embeddings |
+| **Frontend** | **Databases** | **Automation & Tools** |
+| React | PostgreSQL | Python Automation |
+| Next.js | MySQL | Selenium |
+| Tailwind CSS | Redis | Web Scraping |
+| | SQLite | Git & GitHub |
+| | | Docker, Stripe, cPanel |
 
 ---
 
-## 💼 Professional Experience
+## Selected Client Projects
 
-**AI Full Stack Developer — BlenSpark**
-*May 2025 – Present*
+These are some of the projects I have contributed to through my professional work at BlenSpark.
 
-Building AI-powered full-stack features using Django REST APIs, Next.js, React, chatbots, RAG workflows, and automation tools. Contributing to backend systems, integrations, and user-facing application features.
+| Project | Description |
+|:---|:---|
+| **FStreet Social** | Restaurant table booking system |
+| **Georgia Foreclosure Hub** | Property discovery and investment platform |
+| **Travel Multiverse** | Travel discovery and booking platform with AI features |
+| **DineIn Platform** | Restaurant management SaaS |
+| **Amazon Data Extractor** | E-commerce product data extraction |
+| **BOL Analytics Platform** | Product data collection and organization |
+| **Google Sheets Automation** | Automated data processing and integration |
+| **Unified Integration Hub** | Integration between different platforms and APIs |
+| **InnTwin** | Interactive 3D product visualization and AR platform |
+| **Kitchen Giant** | 3D kitchen planner integrated with Shopify |
 
-**Associate Software Developer — BlenSpark**
-*July 2024 – May 2025*
-
-Focused on Django backend development, web scraping, data acquisition, and React frontend development. Designed scraping pipelines and integrated backend and frontend features.
-
-**Python Developer — BlenSpark**
-*June 2024 – July 2024*
-
-Completed a hands-on Python internship covering core Python, Django, and web scraping, gaining practical experience in backend development and data acquisition.
+You can explore more of my professional work on my [portfolio website](https://mohammadshairali.vercel.app/).
 
 ---
 
-## 🎓 Education
+## Work Experience
 
-**Bachelor of Science in Computer Science**
+### AI Full Stack Developer
+
+**BlenSpark | May 2025 – Present**
+
+Currently working on web applications using Django, React, and Next.js. My work also includes AI integrations, chatbot development, RAG features, automation, and backend APIs.
+
+### Associate Software Developer
+
+**BlenSpark | July 2024 – May 2025**
+
+Worked mainly on Django backend development and web scraping. I also contributed to React frontend development and built data extraction pipelines for different projects.
+
+### Python Developer Intern
+
+**BlenSpark | June 2024 – July 2024**
+
+Started my professional development journey with Python, Django, and web scraping. Gained practical experience working on backend development and data collection tasks.
+
+---
+
+## Education
+
+**BS Computer Science**
+
 University of Management and Technology (UMT)
+
 November 2021 – June 2025
 
----
-
-## 📊 Professional Highlights
-
-- 2+ Years of Software Development Experience
-- 30+ Portfolio Projects
-- 20+ Core Technical Skills
-- Experience across AI, Full-Stack Development, Automation, and Data Systems
-- Experience with production integrations and end-to-end application development
+CGPA: 3.37
 
 ---
 
-## 🤝 Let's Connect
+## Contact
 
-I'm open to opportunities and collaborations involving:
+I'm always interested in working on useful products, learning new technologies, and connecting with other developers.
 
-- AI Engineering & LLM Applications
-- Full-Stack Web Development
-- Python & Django Backend Development
-- Chatbots and RAG Systems
-- Automation & Web Scraping
-- API Development & Integration
+If you have a project or an opportunity to discuss, feel free to reach out.
 
-🌐 **Portfolio:** [mohammadshairali.vercel.app](https://mohammadshairali.vercel.app/)
+**Portfolio:** [mohammadshairali.vercel.app](https://mohammadshairali.vercel.app/)
 
-💻 **GitHub:** [MohammadShairAli](https://github.com/MohammadShairAli)
+**GitHub:** [github.com/MohammadShairAli](https://github.com/MohammadShairAli)
 
-📧 **Email:** [shair2558@gmail.com](mailto\:shair2558@gmail.com)
+**Email:** [shair2558@gmail.com](mailto:shair2558@gmail.com)
 
-📍 **Lahore, Pakistan**
+**Location:** Lahore, Pakistan
 
 ---
 
-*Building practical AI-powered products and scalable digital solutions.*
+Thanks for visiting my profile!
